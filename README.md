@@ -10,7 +10,7 @@ and against ANCOVA on a prognostic score.
 
 Companion code for the Medium post *"Your Control Arm Is a Missing-Data Problem."*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eypSG0QRy2jqBCV474LEOOUoQr0j-lkk?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O1iMHHubitqRVcL1gQa8zscXnjm3UiDJ)
 
 ---
 
@@ -291,7 +291,7 @@ estimates are wrong.
 
 - Hammer SM, Katzenstein DA, Hughes MD, et al. (1996). A trial comparing nucleoside
   monotherapy with combination therapy in HIV-infected adults with CD4 cell counts from 200
-  to 500 per cubic millimeter. *New England Journal of Medicine* 335:1081–1090.
+  to 500 per cubic millimeter. *New England Journal of Medicine* 335:1081–1090. DOI: 10.1056/NEJM199610103351501
 - CDC National Center for Health Statistics. *National Health and Nutrition Examination
   Survey*, 2009–2010 and 2011–2012. https://www.cdc.gov/nchs/nhanes/
 
