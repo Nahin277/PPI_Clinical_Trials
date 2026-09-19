@@ -291,7 +291,7 @@ estimates are wrong.
 
 - Hammer SM, Katzenstein DA, Hughes MD, et al. (1996). A trial comparing nucleoside
   monotherapy with combination therapy in HIV-infected adults with CD4 cell counts from 200
-  to 500 per cubic millimeter. *New England Journal of Medicine* 335:1081–1090. https://doi.org/NEJM199610103351501
+  to 500 per cubic millimeter. *New England Journal of Medicine* 335:1081–1090. https://www.nejm.org/doi/full/10.1056/NEJM199610103351501
 - CDC National Center for Health Statistics. *National Health and Nutrition Examination
   Survey*, 2009–2010 and 2011–2012. https://www.cdc.gov/nchs/nhanes/
 

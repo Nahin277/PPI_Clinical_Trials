@@ -395,7 +395,7 @@ That's it. That's the method.
 
 **Data**
 
-- Hammer SM, Katzenstein DA, Hughes MD, et al. (1996). A trial comparing nucleoside monotherapy with combination therapy in HIV-infected adults with CD4 cell counts from 200 to 500 per cubic millimeter. *New England Journal of Medicine* 335:1081–1090. DOI: 10.1056/NEJM199610103351501. — ACTG 175; the analysis dataset is distributed in the R package `BART` (and in `speff2trial`).
+- Hammer SM, Katzenstein DA, Hughes MD, et al. (1996). A trial comparing nucleoside monotherapy with combination therapy in HIV-infected adults with CD4 cell counts from 200 to 500 per cubic millimeter. *New England Journal of Medicine* 335:1081–1090. https://www.nejm.org/doi/full/10.1056/NEJM199610103351501 — ACTG 175; the analysis dataset is distributed in the R package `BART` (and in `speff2trial`).
 - CDC National Center for Health Statistics. *National Health and Nutrition Examination Survey*, 2009–10 and 2011–12 waves. https://www.cdc.gov/nchs/nhanes/ — accessed via the R package `NHANES`.
 
 ---
