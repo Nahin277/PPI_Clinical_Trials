@@ -335,7 +335,7 @@ If you take one thing from this post into your own work, take that. The method i
 
 Everything in this post — the estimator library, all five simulations, and both real-data analyses — is in a single notebook that downloads its own data and runs end to end on a free Colab CPU runtime in about five minutes.
 
-**▶ [Open the notebook in Google Colab](https://colab.research.google.com/drive/1eypSG0QRy2jqBCV474LEOOUoQr0j-lkk?usp=sharing)**
+**▶ [Open the notebook in Google Colab](https://colab.research.google.com/drive/1O1iMHHubitqRVcL1gQa8zscXnjm3UiDJ)**
 
 The core estimator is short enough to paste here:
 
